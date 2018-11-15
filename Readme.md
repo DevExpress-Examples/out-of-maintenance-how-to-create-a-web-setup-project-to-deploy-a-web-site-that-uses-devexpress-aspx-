@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Default.aspx](./CS/WebSite1/Default.aspx) (VB: [Default.aspx.vb](./VB/WebSite1/Default.aspx.vb))
+* [Default.aspx.cs](./CS/WebSite1/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite1/Default.aspx.vb))
+<!-- default file list end -->
 # How to create a Web Setup Project to Deploy a Web Site that uses DevExpress ASPx controls
 
 
